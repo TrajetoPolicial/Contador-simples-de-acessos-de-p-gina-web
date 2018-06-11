@@ -3,5 +3,5 @@ Esse contador incrementa cada visita feita na pagina web em que se econtra inclu
 <small><b>OBS: esse contador contabiliza as atualizações feitas como uma visita também .</b></small>
 
 <h2>Para utilizar:</h2>
-<h3>inclua seguinte contigo no cabeçalho dentro das tags php:</h3>
+<h3>inclua seguinte arquivo no cabeçalho dentro das tags php:</h3>
 <ul><li>include "contador.inc";</li></ul>
